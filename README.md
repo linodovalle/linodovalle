@@ -5,17 +5,18 @@
 
 ## 🎓 **Formação**
 
-- **Bacharelado** em Direito pela Universidade Estadual de Santa Cruz (**UESC - Ilhéus-BA**)
-- **Técnico** Controle de Tráfego Aéreo (**ICEA - São José do Campos-SP**)
+- **Bacharelado** em Direito pela Universidade Estadual de Santa Cruz ([**UESC - Ilhéus-BA**](https://uesc.br/))
+- **Técnico** Controle de Tráfego Aéreo ([**ICEA - São José do Campos-SP**](https://www.icea.decea.mil.br/))
 
 ## 📝 **Aprendendo sobre...**
 
-| ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | ![Ubuntu Server](https://img.shields.io/badge/Ubuntu_Server-35495E?style=for-the-badge&logo=ubuntu&logoColor=E95420) |
+| [![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/) | [![Ubuntu Server](https://img.shields.io/badge/Ubuntu_Server-35495E?style=for-the-badge&logo=ubuntu&logoColor=E95420)](https://ubuntu.com/server) |
 |---------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------|
-| ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) | ![Linux Distros](https://img.shields.io/badge/Linux_Distros-000000?style=for-the-badge&logo=linux&logoColor=FCC624)   |
-| ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)   | ![BashScript](https://img.shields.io/badge/BashScript-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)   |
-| [![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc) | ![SQL_MySQL](https://img.shields.io/badge/SQL_MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)   |
-| [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/) | ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white) |
+| [![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)](https://www.djangoproject.com/) | [![Linux Distros](https://img.shields.io/badge/Linux_Distros-000000?style=for-the-badge&logo=linux&logoColor=FCC624)](https://distrowatch.com/) |
+| [![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/) | [![BashScript](https://img.shields.io/badge/BashScript-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)](https://www.gnu.org/s/bash/manual/bash.html) |
+| [![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc) | [![SQL_MySQL](https://img.shields.io/badge/SQL_MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/) |
+| [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/) | [![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)](https://learn.microsoft.com/pt-br/powershell/) |
+| [![ESP8266](https://img.shields.io/badge/ESP8266-000000?style=for-the-badge&logo=esphome&logoColor=white)](http://esp8266.net/) | [![MicroPython](https://img.shields.io/badge/MicroPython-2C3E50?style=for-the-badge&logo=python&logoColor=white)](https://micropython.org/) |
 
 
 ## 💼 **Soft Skills**
@@ -52,9 +53,10 @@
 
 ## 🛠️ **Ferramentas**
 
-![Sublime Text](https://img.shields.io/badge/Sublime_Text-FF9800?style=for-the-badge&logo=sublime-text&logoColor=white)
-![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
+[![Sublime Text](https://img.shields.io/badge/Sublime_Text-FF9800?style=for-the-badge&logo=sublime-text&logoColor=white)](https://www.sublimetext.com)
+[![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com)
+[![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)](https://www.jetbrains.com/pycharm/)
+[![Wokwi](https://img.shields.io/badge/Wokwi-5C2D91?style=for-the-badge&logo=raspberrypi&logoColor=white)](https://wokwi.com/)
 
 ## 📈 **GitHub Stats**
 
@@ -67,7 +69,6 @@
 ## 🔗 **Outros**
 
 | [Badges Legais](https://github.com/Ileriayo/markdown-badges#markdown-badges)|
-|------|
 | [Guia de Markdown](https://docs.github.com/pt/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/quickstart-for-writing-on-github)|
 | [GitHug Stats](https://github.com/digitalinnovationone/dio-lab-open-source/blob/main/utils/cards/github-stats.md)|
 
